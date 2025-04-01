@@ -23,7 +23,7 @@ Hi 👋, I'm Gouranga Das Samrat, a 16-year-old Frontend Web Developer, and I'm 
 
 1.  Clone the repository:
     ```bash
-    git clone 
+    git clone git@github.com:GourangaDasSamrat/Responsive-Dentist-Website.git
     ```
 2.  Navigate to the project directory:
     ```bash
