@@ -2,7 +2,7 @@
 
 Hi 👋, I'm Gouranga Das Samrat, a 16-year-old Frontend Web Developer, and I'm excited to share my responsive dentist website project with you! 🚀
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-brightgreen)]()
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-brightgreen)](https://dentistwebsitebygouranga.netlify.app/)
 
 ## ✨ Features ✨
 
