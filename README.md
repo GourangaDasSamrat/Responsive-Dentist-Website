@@ -53,7 +53,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 * LinkedIn: [https://linkedin.com/in/gouranga-das-samrat](https://linkedin.com/in/gouranga-das-samrat)
 * CodePen: [https://codepen.io/gouranga-das-samrat](https://codepen.io/gouranga-das-samrat)
 * LeetCode: [https://leetcode.com/u/cqq98g0hw0/](https://leetcode.com/u/cqq98g0hw0/)
-* Portfolio: [https://gourangadas.netlify.app/](https://gourangadas.netlify.app/)
+* Portfolio: [https://gouranga-das.netlify.app/](https://gourangadas.netlify.app/)
 * Blogger: [https://gourangadassamrat.blogspot.com/](https://gourangadassamrat.blogspot.com/)
 * GitHub: [https://github.com/GourangaDasSamrat](https://github.com/GourangaDasSamrat)
 
